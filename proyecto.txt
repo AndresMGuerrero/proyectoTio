@@ -1,0 +1,14 @@
+Página informativa acerca de dispositivos moviles.
+
+Métodos de búsqueda:
+
+1- Por marca.
+2- Por precio aproximado.
+3- Por especificaciones:
+	a) Memoria RAM
+	b) Procesador
+	c) Cámara
+	d) Pantalla
+	e) Memoria interna
+4- Por año.
+	
