@@ -3,6 +3,14 @@ Página informativa acerca de dispositivos moviles.
 Métodos de búsqueda:
 
 1- Por marca.
+   Samsung 
+   Motorola
+   LG
+   Huawei 
+   Apple
+   Xiaomi
+   Realme
+
 2- Por precio aproximado.
 3- Por especificaciones:
 	a) Memoria RAM:
