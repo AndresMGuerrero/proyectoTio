@@ -1,4 +1,4 @@
-Lista de marcas de celulares:
+﻿Lista de marcas de celulares:
 
 Samsung:Comenzamos esta lista con una de las marcas de teléfonos más vendidas en todo el mundo, Samsung. 
 Esta compañía, fundada en Corea del Sur en 1938, ha sabido ganarse al público gracias a que, año tras año, implementa en sus equipos lo último en tecnología e innovación.
@@ -13,3 +13,5 @@ Desde entonces, la empresa de telefonía ha ido expandiéndose por todo el mundo
 
 Motorola:Fundada en 1928 en Estados Unidos, la historia de Motorola ha dado muchas vueltas hasta llegar a lo que es hoy. Primero fue comprada por Google y más tarde por Lenovo.
  Sin embargo, ha tenido modelos muy populares a lo largo de su historia como el Motorola RAZR plegable, entre otros.
+
+Realme: es un fabricante de productos electrónicos fundada el 4 de mayo de 2018 con sede en Dongguan, Guangdong, China. Es principalmente conocido por sus teléfonos inteligentes.
