@@ -31,4 +31,11 @@ Métodos de búsqueda:
           En ella se instala el sistema operativo y las aplicaciones que vienen de fábrica que no se pueden eliminar. 
           También se guardan las aplicaciones que descargamos en nuestro teléfono, fotos, videos y otros archivos.
 4- Por año.
+   Estos son los teléfonos celulares más icónicos de la historia
+
+   Motorola Dynatac 8000x (1983)
+   Motorola MicroTAC (1989)
+   Motorola International 3200 (1992)
+   Motorola StarTAC (1996)
+   Nokia 3210 (1999)
 	
