@@ -10,6 +10,7 @@ Métodos de búsqueda:
    Apple
    Xiaomi
    Realme
+   Alcatel
 
 2- Por precio aproximado.
 3- Por especificaciones:
